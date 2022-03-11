@@ -36,4 +36,5 @@
 Would you ike to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-  
+
+Credits: <a href="https://github.com/BEPb">BEPb</a>
