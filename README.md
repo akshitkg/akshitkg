@@ -17,7 +17,7 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/akshitkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/akshitkg/akshitkg/master/assets/twitter.svg" alt="akshitkg" height="30" width="30" /></a>
-<a href="https://inkedin.com/in/akshit-kumar-gautam-95a647222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/akshitkg/akshitkg/master/assets/linkedin.svg" alt="akshitkg" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/akshit-kumar-gautam-95a647222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/akshitkg/akshitkg/master/assets/linkedin.svg" alt="akshitkg" height="30" width="30" /></a>
 <a href="mailto:akshitkumargautam@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/akshitkg/akshitkg/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
